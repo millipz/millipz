@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an experienced designer and educator currently transitioning into working with software and data. My [website](https://milesjphillips.com/) hosts occasional blog posts and projects, and you can find my contact details there too.
+
 <!--
 **millipz/millipz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
